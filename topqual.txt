@@ -1,0 +1,11 @@
+Dataset:  topqual.dat
+Source: www.nascar.com
+
+Description: Top Qualifying and Race speeds for Winston Cup races (through 2009 season), along with 
+track specifications
+
+Variables/Columns
+Track    1-45 
+Banking (degrees)  48-50
+Circumference (miles)  56-59 
+Top Qualifying Speed  62-68 

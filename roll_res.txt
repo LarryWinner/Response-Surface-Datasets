@@ -1,0 +1,20 @@
+Dataset:  roll_res.dat
+
+Source: G.S. Tiwari and K.P. Pandey (2008). "Performance Prediction of
+Animal Drawn Vehicle Tires in Sand," Journal of Terramechanics, Vol. 45,
+pp. 193-200.
+
+Description: Effects of various numeric factors on rolling resistance (kN)
+of camel carts in sand. Factors: 
+Tire width/diameter ratio
+Cart Load (kN)
+Tire inflation pressure (kPa)
+Sand Compaction (MPa/m)
+
+Variables/Columns
+Cart Load (kN)  7-8
+Tire Inflation Pressure   14-16
+Tire width/diameter ratio  18-24
+Sand compaction    28-32
+Rolling Resistance   34-40 
+

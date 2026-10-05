@@ -1,0 +1,21 @@
+Dataset:  thermalstability.csv
+
+Source: G. Golkarnarenji, M. Naebe, K. Badii, A.S. Milani, R.N. Jazar,
+H. Khayyam (2018). "Support Vector Regression Modelling and Optimization
+of Energy Consumption in Carbon Fiber Production Line," Computers and 
+Chemical Engineering, Vol. 109, pp. 276-288.
+
+Description: Results from an experiment involving energy consumption (MJ)  for
+a thermal stabilization process with input factors: Temperature (C),
+Space Velocity (m/h), and Stretch Ratio (%). Each factor at 4 levels in
+a total of 30 experimental runs.
+
+
+Variable names:
+trialNum    /* Run number  */
+tempC      /* 227, 230, 233, 236  */
+fbrSpcVel   /* Fiber space velocity:  20, 25, 30, 35  */
+stretchRto  /* 1,2,3,4  */
+enrgyCnsm
+
+

@@ -1,0 +1,32 @@
+Dataset: surface_rough.dat
+
+Source: K. Bouacha, M.A. Yallese, T. Mabrourki, and J-F. Rigal (2010).
+"Statistical Analysis of Surface Roughness and Cutting Forces Using
+Response Surface Methodology in Hard Turning of AISI 52100 Bearing Steel
+with CBN Tool," International Journal of Refractory Metals & Hard Materials,
+Vol. 28 pp. 349-361.
+
+Description: 3 Factor Design with factors:
+Cutting Speed (meters/minute)
+Spindle Speed (revs/min)
+Feed Rate  (mm/rev)
+on 2 Classes of Responses:
+Surface Roughness Parameters (all in mu_m)
+average absolute roughness
+maximum height of profile
+average maximum height of profile
+Cutting Force Components (Newtons)
+feed force
+thrust force
+tangential cutting force
+
+Variables/Columns
+Cutting Speed (meters/minute)   1-8
+Spindle Speed (revs/min)  10-16
+Feed Rate  (mm/rev)  18-24
+average absolute roughness   26-32
+maximum height of profile   34-40
+average maximum height of profile  42-48
+feed force    50-56
+thrust force   58-64
+tangential cutting force   66-72

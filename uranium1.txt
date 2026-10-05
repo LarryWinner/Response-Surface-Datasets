@@ -1,0 +1,20 @@
+Dataset: uranium1.dat
+
+Source: M. Eisapour, A. Keshtkar, M.A. Moosavian, A. Rashidi (2013).
+"Bioleaching of Uranium in Batch Stirred Tank Reactor: Process
+Optimization using Box-Behnken Design," Annals of Nuclear Energy,
+Vol. 54, pp. 245-250.
+
+Description: Results of experiment in bioleaching uranium with 3
+factors and 13 runs. Y=% Uranium recovery, X1=pulp density (w/v),
+X2=agitation speed (rpm), X3=Aeration Rate (l/h).
+
+Variables/Columns
+Run Order       7-8
+Pulp Density   15-16
+Coded PD     23-24
+Agitation Speed  30-32
+Coded AS     39-40
+Aeration Rate  46-48
+Coded AR     55-56
+Uranium recovery %   60-64

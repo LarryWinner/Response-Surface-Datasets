@@ -1,0 +1,22 @@
+Dataset: yellow_dye_remove.dat
+
+Source: M.R. Sohrabi, S. Amiri, H.R.F. Masoumi, and M. Moghri (2013).
+"Optimization of Direct Yellow 12 Dye Removal by Nanoscale Zero-Valent
+Iron Using Response Surface Methodology," Journal of Industrial and
+Engineering Chemistry, http://dx.doi.org/10.1016/j.jiec.2013.10.037
+
+Description: Response Surface relating 4 factors to percent removal of yellow 
+dye 12. Factors/Levels:
+Catalyst Amount (w/w%)   -2=0.1, -1=0.3 0=0.5 1=0.7 2=0.9
+pH                -2=2.5, -1=4 0=5.5 1=7 2=8.5
+Reaction Time (Sec)  -2=30, -1=60, 0=90 1=120 2=150
+Initial Concentration (mg/L)  -2=10, -1=20 0=30 1=40 2=50
+
+
+Variables/Columns
+Run number    7-8
+Coded catalyst amount   15-16
+Coded pH           23-24
+Coded Reaction Time     31-32
+Coded Initial Concentration    39-40
+Percent Yellow Dye Removal     44-48

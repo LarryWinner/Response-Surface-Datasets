@@ -1,0 +1,32 @@
+Dataset:  tilapia_rsm.dat
+
+Source: J. Qiang, H. Yang, H. Wang, M.D. Kpundeh, P. Xu (2013).
+"Interacting Effects of Water Temperature and Dietary Protein Level on
+Hematological Parameters in Nile Tilapia Juveniles, Oreochromis
+Nilooticus (L.) and Mortality Under Streptococcus Iniae Infection,"
+Fish and Shellfish Immunology, Vol. 34, pp. 8-16
+
+Description: Response Surface relating 3 hematalogical parameters
+Red Blood cell (RBC), white blood cell (WBC), and Hemoglobin (Hb) to
+temperature (range=20C-34C) and dietary protein level (range=25%-50%).
+Mortality was also observed. Regressions were 2nd-order (main effects,
+interaction, and quadratics), based on coded values. Mean response at
+each treatment was "Y".
+
+Variables/Columns
+Run number   7-8
+Coded Temperature   10-16
+Coded Protein    18-24
+Coded Temp * Coded Prot  26-32
+Coded Temp squared 34-40
+Coded Prot squares 42-48
+Actual Temp    50-56
+Actual Protein  58-64
+Mean RBC (x10^6mu/L)    66-72
+Mean WBC (x10^3mu/L)  74-80
+Mean Hb (grams/L)   82-88
+Mean Mortality (%)   90-96
+SD RBC    98-104
+SD WBC    106-112
+SD Hb     114-120
+SD Mortality   122-128

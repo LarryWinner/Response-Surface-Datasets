@@ -1,0 +1,21 @@
+Dataset:  surface_finish.dat
+
+Source: R. Levi (1965). "Evaluation of Machining Conditions by
+Factorial Experiment," International Journal of Machine Tool Design
+and Research, Vol.5,pp.217-221.
+
+Description 2^4 factorial experiment relating 4 factors to roughness on
+the finish of ground steel pieces (profilomerer readings, micr-inches AA)
+measured across wheel marks. Low values are considered best.
+Factors:
+A=Hardness    0 = 220 Brinell   1 = 62 Rockwell C
+B=Table Feed (ft/min)    0 = 32.8    1=82
+C=Wheel mark pattern     0 = Cross-hatched   1 = Parallel
+D=Cutting Fluid Type     0 = M, 1 = S
+
+Variables/Columns
+A       8
+B       16
+C       24
+D       32
+Roughness   34-40

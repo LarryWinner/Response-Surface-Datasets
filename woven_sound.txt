@@ -1,0 +1,22 @@
+Dataset: woven_sound.dat
+
+Source: S. Sengupta (2010). "Modeling on Sound Transmission Loss
+of Jute Needle-Punched nonwoven Fabrics Using Central
+Composite Rotatable Experimental Design," Indian Journal of
+Fibre & Textile Research, Vol35,#4,pp.293-297.
+
+Description: 3-Factor Experiment conducted to maximize sound transmission
+loss in non-woven fabrics. 20 runs.
+Factors/Levels:
+Punch Density (Punches/cm^2) -1.682=70,-1=106.5,0=160,1=213.5,1.682=250
+Needle Penetration (mm)  -1.682=18,-1=16.4,0=14,1=11.6,1.682=10
+Mass/Unit Area (g/cm^2)  -1.682=300,-1=442,0=650,1=858,1.682=1000
+
+Variables/Columns
+Sample number     7-8
+Order number     15-16
+Punch density (coded)   18-24
+Needle Penetration (Coded)  26-32
+Mass/Unit area  (Coded)  34-40
+Sound Transmission loss (dB)   42-48
+

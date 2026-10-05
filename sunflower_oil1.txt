@@ -1,0 +1,21 @@
+Dataset: sunflower_oil1.csv
+
+Source: J.M. Avramovic, O.S. Stamenkovic, Z.B. Todorovic, M.L. Lazic,
+V.B. Veljkovic (2010). "The Optimization of the Ultrasound-Assisted
+Base-Catalyzed Sunflower Oil Methanolysis by a Full Factorial Design,"
+Fuel Processing Technology, Vol. 91, pp. 1551-1557.
+
+Description: 3^3 experiment (2 replicates per treatment), relating
+fatty acid methyl ester (FAME) yield to 3 factors, each at 3 levels:
+Temperature: 20C (-1), 30C (0), 40C (+1)
+Methanol-to-oil molar ratio: 4.5:1 (-1), 6.0:1 (0), 7.5:1 (+1)
+KOH Catalyst Loading:  0.3% (-1), 0.5% (0), 0.7% (+1)
+
+Variable Names
+tempC    (Coded temperature)
+mtorC    (Coded Mathanol-to-oil ratio)
+kohC     (Coded KOH Catalyst level)
+temp_X1  (Temperature)
+mtor_X2  (Methanol-to-Oil Ratio)
+koh_X3   (KOH catalyst level)
+fame_Y   (FAME yield after 60 minutes) 

@@ -1,0 +1,24 @@
+Dataset:  potatochip_dry_rsm.dat   potatochip_dry.csv
+
+Source: X-j. Song, M. Zhang, and A.S. Mujumdar (2007). "Optimization of
+Vacuum Microwave Predrying and Vacuum Frying Conditions to Produce Fried
+Potato Chips," Drying Technology, Vol. 25, pp. 2027-2034
+
+Description: 3 Factor Response surface model, relating three aspects to
+factors.
+Factors/Levels:
+Vacuum microwave predrying time (minutes): -1.682=0.95 -1=3 0=6 1=9 1.682=11.05
+Vacuum temperature (degC): -1.682=83.18 -1=90 0=100 1=110 1.682=116.82
+Frying Time (minutes):  -1.682=11.59 -1=15 0=20 1=25 1.682=28.41
+Response Variables:
+Moisture content (%), Fat content (%), Breaking force (g)
+
+Variables/Columns   (.dat file.    .csv includes uncoded variables)
+Run number    7-8
+Coded predrying time 10-16
+Coded frying temperature  18-24
+Coded frying time   26-32
+Moisture content    34-40
+Fat content     42-48
+Breaking force  50-56
+

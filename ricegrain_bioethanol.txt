@@ -1,0 +1,26 @@
+Dataset:  ricegrain_bioethanol.csv
+
+Source: K. Mihajlovski, Z. Radovanovic, M. Carevic, S. Dimitrijevik-Brankovic
+(2018). "Valorization of Damaged Rice Grains: Optimization of Bioethanol
+Production by Waste Brewer's Yeast Usung an Amylolytic Potential from the
+Paenibacillus Chitiolyticus CKS1," Fuel, Vol. 224, pp. 591-599.
+
+Description: Response Surface (CCD) with 3 factors and 3 responses.
+Factors: Malt Extract Concentration (%), Yeast Inoculum Concentraion (%),
+and Fermentation Time (days)
+Resonses: Ethanol Concentration (%), Yeast Cell Yield (log CFU/ml),
+and Utilized Reducing Sugars (g/l)
+Two clear typos Yeast Inoculum Concentration were replaced and coded analysis
+matches published results.
+
+Variable Names
+Run_ID
+maltExt.C 
+ystInoc.C
+fermTm.C
+maltExt
+ystInoc
+fermTm
+ethConc
+ystCell
+utilSug

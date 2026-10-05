@@ -1,0 +1,34 @@
+Dataset:   pulppaperbleach.csv
+
+Source: R. Sridhar, V. Sivakumar, V. Prince Immanuel, J. Prakash Maran (2012).
+"Development of Model for Treatment of Pulp and Paper Industry Bleaching
+Effluent Using Response Surface Methodology," Environmental Progress &
+Sustainable Energy, Vol. 31, #4, pp. 558-565.
+
+
+Description: Results of a Box-Behnken design with 4 factors, each at
+3 levels, and 3 response variables.
+Factors:
+Current density (mA/cm^2)
+Initial pH
+Elecrolyte Concentration (g/l)
+Electrolysis time (min)
+Responses: 
+% Colour Removal
+% Chemical Oxygen Demand (COD) Removal
+% Biochemical Oxygen Demand (COD) Removal
+
+Variables/labels
+Run Number   (runnum)
+Current Density  (X1)
+Initial pH   (X2)
+Electrolyte Concentration (X3)
+Electrolysis Time   (X4)
+% Colour Removal   (colour)
+% COD Removal    (cod)
+% BOD Removal    (bod)
+Coded Current Density  (XC1)
+Coded Initial pH   (XC2)
+Coded Electrolyte Concentration (XC3)
+Coded Electrolysis Time   (XC4)
+

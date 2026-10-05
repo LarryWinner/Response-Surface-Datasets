@@ -1,0 +1,28 @@
+Dataset:  transdermal.csv
+
+Source: H. Chaudhary, K. Kohli, S. Amin, P. Rathee, V. Kumar (2011).
+"Optimization and Formulation Design of Gels of Diclfenac and Curcumin for
+Transdermal Drug Delivery by Box-Behnken Statistical Design,"
+Journal of Pharmaceutical Sciences, Vol. 100, #2, pp. 580-593.
+
+Description:
+3-factors, each at 3 levels, with 3 Response Variables. Box-Behnken
+response surface design.
+Factors:
+Polymer Concentration (% w/w): -1=0.5, 0=1.0, +1=1.5
+Ethanol Concentration (% w/w): -1=10, 0=15, +1=20
+PG Concentration (% w/w): -1=5, 0=10, +1=15
+Responses:
+Flux of DDEA
+Flux of CRM
+Viscosity of Gel
+
+Variable/Labels:
+Run number  (runnum)
+Coded Polymer Concentration  (polyconc)
+Coded Ethanol Concentration  (ethnconc)
+Coded PG Concentration   (pgconc)
+Flux DDEA   (fluxddea)
+Flux CRM   (fluxcrm)
+Viscosity of Gel   (viscgel)
+

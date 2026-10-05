@@ -1,0 +1,26 @@
+Dataset:  sugarcane_wine.dat
+
+Source: D-I. Tzeng, C-Y. Tai, Y.C. Chia, Y-P. Lin, and A.S-M. Ou (2009).
+"Investigating of Fermenting Conditons for Sugarcane (Saccharum Officinarum L.)
+Wine Using Response Surface Methodology," Journal of Food Processing and
+Preservation, Vol. 33, pp. 330-346.
+
+Description: RSM with 3 independent variables: Sugar content (20, 24, 28
+Brix), pH, (5.0,5.5,6.0), and fermentation temp (20, 25, 30C).
+5 outcome variables: Total soluble solids (Brix), ethanol content (%)
+and 3 sensory attributes (average of 50 scores on 5-point Likert scale):
+color, aroma, flavor, and overall
+
+Variables/Columns:
+Coded Sugar   6-8
+Coded pH   14-16
+Coded Temp  22-24
+Sugar content    30-32
+pH    38-40
+Temp   46-48
+Total soluble solids    50-56
+Ethanol    58-64
+Color     68-72
+Aroma     75-80
+Flavor    83-88
+Overall   90-96
