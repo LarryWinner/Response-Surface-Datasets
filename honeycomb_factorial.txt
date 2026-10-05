@@ -1,0 +1,29 @@
+Dataset: honeycomb.dat
+
+Source: R.R. Butukuri, V.P. Bheemreddy, K. Chandashekhara, and V.A. 
+Samaranayake (2012). "Evaluation of Low-Velocity Impact Response of
+Honeycomb Sandwich Structures Using Factorial-Based Design of
+Experiments, Journal of Sandwich Structures and Materials,
+14(3), pp. 339-361.
+
+Description: 3^3 Factorial measuring 3 responses at 3 levels of 3 factors
+in 54 runs (2 reps ate each of 27 combinations of factors).
+Factor A: Angle Difference Between Successive Prepreg Layers  -1=30, 0=45, +1=60
+Factor B: Number of Prepreg Layers  -1-4, 0=8, +1=12
+Factor C: Number of Adhesive Layers  -1=1, 0=2, +1=3
+
+Response X = Energy Absorbed (Joulles)
+Response Y = Peak Contact Load  (kN)
+Response Z = Maximum Deflection  (mm)
+
+
+Variables/Columns
+Sample #   7-8
+Coded Factor A   15-16
+Coded Factor B   23-24
+Coded factor C   31-32
+Energy Absorbed   34-40
+Peak Contact Load  42-48
+Max deflection     50-56
+
+ 

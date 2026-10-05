@@ -1,0 +1,34 @@
+Dataset: orange_emul.txt
+
+Source: H. Mirrhosseini and C. P. Tan (2010). "Discrimination of Orange
+Beverage Emulsions with Different Formulations Using Multivariate
+Analysis," Journal of the Science of Food and Agriculture; 
+Vol. 90, pp 1308-1316.
+
+Description: Results of a Response Surface fit as a Central Composite
+Design in 3 Blocks. 
+Response Vars:
+Turbidity (nephelometic turbidity units (NTU))
+Mean Droplet Size (nanometers)
+Polydispersity index
+Viscosity (mPa s)
+Density (g/cm^3)
+Explanatory Variables:
+Gum Arabic (g/kg)  - Original level divided by 10 to match published results
+Xanthan Gum (g/kg) -   "       "        "   "  "   "  "        "        "
+Orange Oil (g/kg)  -   "       "        "   "  "   "  "        "        "
+
+Variables/columns
+Block    8
+Gum Arabic (X1)   10-16
+Xanthan Gum (X2)  18-24
+Orange Oil  (X3)  26-32
+Block 1 Dummy     40
+Block 2 Dummy     48
+Block 3 Dummy     56
+Turbidity (Y1)      58-64
+Droplet Size (Y2)   66-72
+Polydispersity (Y3) 74-80
+Viscosity (Y4)      82-88
+Density (Y5)        90-96 
+

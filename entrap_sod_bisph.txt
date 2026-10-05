@@ -1,0 +1,22 @@
+Dataset: entrap_sod_bisph.dat
+
+Source: Maha Nasr, et al (2010/11). "A Reliable Predictive Factorial Model for
+Entrapment Optimization of a Sodium Bisphosphonate into Biodegradable Microspheres,"
+Journal of Pharmacutical Sciences, 100:612-621.
+
+Description: 2^4 factorial experiment (3 reps per factor combination),
+measuring risedronate sodium (RS) entrapment efficiency percent (EE%)
+
+Factors:
+Type of Poly(lactide-co-glycolic acid)  (PLGA, -1 = 50:50, +1 = 75:25)
+Internal Aqueous Phase Volume Ratio   (-1 = 1:2. +1 = 1:5)
+Amount of PLGA         (-1 = 250mg, +1 = 500mg)
+Amount of Drug         (-1 = 50mg,  +1 = 100mg)
+
+Variables/Columns
+PLGA Type      7-8
+Internal aqueous Phase VR   15-16
+Amount of PLGA   23-24
+Amount of Drug   31-32
+replicate #    40
+RS EE%           43-48

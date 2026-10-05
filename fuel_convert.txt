@@ -1,0 +1,22 @@
+Dataset:  fuel_convert.dat
+
+Source: P.A. Erickson and C. Liao (2007). "Statistical Validation
+and an Empirical Model of Hydrogen Production Enhancement Found by
+Utilizing Passive Flow Disturbance in the Steam-Reformation Process,"
+Experimental Thermal and Fluid Science, Vol. 32, pp467-474
+
+Description: 2^3 factorial experiment studying effects of 3 factors
+on the percentage of methanol fuel converted in a steam-reformer.
+Three replicated per treatment.
+Factors:
+Flow Rate    0=5 ml/min    1=20ml/min
+Catalyst Size   0=Crushed (0.25cm)   1=Pelletized (0.47cm)
+Number of bluff body packages   0=0 Packs  1=8Packs
+
+Variables/Columns
+Treatment    8
+Flow Rate   16
+Catalyst Size   24
+Packages     32
+Run order number   39-40
+Percent conversion  44-48

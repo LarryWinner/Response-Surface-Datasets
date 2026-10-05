@@ -1,0 +1,36 @@
+Dataset:  olive_oil.dat
+
+Source: E. Monteleone, G.Caporale, A. Carlucci, E. Pagliarini (1998).
+"Optimization of Extra Virgin Olive Oil Quality," Journal of the Science of Food and
+Agriculture, Vol. 77, pp.31-37.
+
+Description: Results of a 2^4 factorial experiment with factors:
+Ripening (% pigmentation, levels=30,70)
+Storage (days, levels=1,5)
+Mixing Temperature (C, levels=23,34)
+Mixing Time (minutes, levels=30,80)
+
+Responses:
+Total phenols (mg/kg)
+dphenols (Tranformed phenols)
+Percent yield 
+dyield
+COI Score
+dCOI
+Dtot = Geometric mean of dscores
+
+Model fit contained all main effects and 2-way interactions for Dtot
+
+variables/columns
+Ripening 7-8
+Storage  16
+MixTemp   23-24
+MixTime   31-32
+total phenols  38-40
+dphenols   45-48
+pctyield   53-56
+dyield    61-64
+COI score 70-72
+dCOI      78-80
+Dtot      85-88 
+

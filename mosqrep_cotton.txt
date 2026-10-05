@@ -1,0 +1,29 @@
+Dataset: mosqrep_cotton.csv
+
+Source: S. Khanna and J.N. Charaborty (2018). "Mosquito Repellant Activity
+of Cotton Functionalized with Inclusion Complexes of Beta-Cyclodextrin
+Citrate and Essential Oils," Fashion and Textiles, 5:9, pp.1-18.
+
+Description: Box-Behnken design with 3 factors: 
+beta-Cyclodextrin citrate concenentration (60,70,80 gpl)
+Time of curing  (4,6,8 minutes)
+Temperature of curing (100,130, 160C)
+on 4 responses:
+Graft Yield (%) High values better
+Loss in Tensile Strength (%)  Low values Better
+Yellowness Index (%) Low Values better
+Wash Durability after 5 washes (% retained weight) High values better
+
+Variable names
+runNum
+betaConc
+tempCur
+timeCur
+graftYld
+tensStrng
+yellow
+washDur1  (after 1 cycle)
+washDur2  (  "   2   ")
+washDur3  (  "   3   ")
+washDur4  (  "   4   ")
+washDur5  (  "   5   ")

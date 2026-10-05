@@ -1,0 +1,22 @@
+Dataset: flat_bread.dat
+
+Source: P. Linko, C. Mattson, Y.Y. Linko, J. Antila (1984). "Production of
+Flat Bread by Continuous Extrusion from High alpha-Amylase Flours,"
+Journal of Cereal Science, Vol. 2, pp43-51
+
+Description: Experiment varying 4 factors: Presence of malt,
+Water Content, Mass temperature
+at the dye, and Feed Rate on 5 resposes in flour production
+of flat bread: moisture, horizontal expansion ratio, water absorption,
+water solubility, and bulk density. 24 experimental runs
+
+Variables/Columns
+Water Content (%)  7-8
+Mass Temperature (Celsius)  13-16
+Feed Rate (g/min)   20-24
+Malt      32  /* 1=Yes (6.3%), 0=No */
+Product Moisture (%)   37-40
+Horizontal Expansion ratio   43-48
+Water absorption index    52-56
+Water solubility index (%)  60-64
+Bulk Density (g/l)  68-72

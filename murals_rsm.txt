@@ -1,0 +1,28 @@
+Dataset:  murals_rsm.csv
+
+Source: Z. hu, J. Du, Z. Lu, X. Yao, X. Jiang, J. Yang, L. Liu (2022).
+"Optimization of GuHCl Extraction Protocol on Collagen-Based Binders
+in Murals by Response Surface Methodology," Journal of Cultural Heritage,
+Vol. 56, pp. 56-64.
+
+Description: Response Surface Experiment (Central Composite Design) to
+determine optimal levels of 4 factors on extracting efficiency (%) of guanidine hydrochloride
+(GuHCl) from mural model samples.
+Factors:
+GuHCl concentration (1.5-2.5 M)
+Extraction Time (90-180 minutes)
+Extraction Temperature (50-70C)
+Ultrasound Power (120-280W)
+
+Variable Names:
+runID    (1-30)
+GuHCl_C    (Coded)
+extTime_C   (Coded)
+extTemp_C   (Coded)
+utraPwr_C   (Coded)
+extEff_Y    (Response)
+GuHCl
+extTime
+extTemp
+ultraPwr
+

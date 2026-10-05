@@ -1,0 +1,17 @@
+Dataset: flank_zirconia.dat
+
+Source: N. Mandal, B. Doloi, and B. Mondal (2011). "Development of Flank Wear
+Prediction Model of Zirconia Toughened Alumina (ZTA) Cutting Tool Using
+Response Surface Methodology," International Journal of Refractory Metals
+and Hard Materials, Vol. 29, pp. 273-280.
+
+Description: 3 Factor Design, relating cutting speed (m/min),
+feed rate (mm/rev), and Depth of Cut (mm) to flank wear (mu_m)
+for a zirconia cutting tool.
+
+Variables/Columns
+Run #   7-8
+Cutting speed   10-16
+Feed rate  18-24
+Depth of cut   26-32
+Flank Wear   34-40

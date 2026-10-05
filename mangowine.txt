@@ -1,0 +1,30 @@
+Dataset: mangowine.dat
+
+Source: Y.S. Kumar, R.S. Praksam, O.V.S. Reddy (2009). "Optimisation of
+Fermentation Conditions for Mango (Mangifera indica L.) Wine Production by
+Employing Response Surface Methodology," International Journal of Food
+Science & Technology, Vol. 44, pp. 2320-2327.
+
+Description:
+Response Surface (Central Composite Design) with 3 factors and 3 responses.
+Factors:
+Temperature (Celsius)
+pH
+Inoculum Size (%)
+Responses:
+Ethanol (%)
+Glycerol (g/L)
+Acidity (g/L)
+
+Variables/Columns
+Run Number 7-8
+Coded Temperature   10-16  
+Coded pH    18-24
+Coded Inoculum   26-32
+Ethanol   36-40
+Glycerol  44-48
+Acidity   52-56
+Intercept    64   /* Always 1, was used for matrix form  */
+Temperature   66-72 
+pH    74-80 
+Inoculum Size  82-88 

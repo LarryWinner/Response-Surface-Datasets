@@ -1,0 +1,24 @@
+Dataset:  malt_sod_pb.dat
+
+Source: D-J Meng, J. Lu, W. Fan, J-J Dong, Y. Lin, and L-J Shan (2007).
+"Control of Superoxide Dismutase Activity During Malting Using
+Plackett-Burman and Box-Behnken Experimental Design and Its Effect
+on Reducing Power of Wort," Journal of the Institute of Brewing,
+Vol. 113, #4, pp.365-373.
+
+Description: Results of a Box-Behnken design to fit a response surface
+in 3 predictors with 15 runs. Dependent Variable = SOD (U/g)
+Factors:
+Steeping Time (h)
+Germination Temp (C)
+Kilning Temp (C)
+
+Variables/Columns
+Run #    7-8
+Coded Steeping Time  15-16
+Coded Germination Temp   23-24
+Coded Kilning Temp  31-32
+Actual Steeping Time  39-40
+Actual Germination Temp 47-48
+Actual Kilning Temp   55-56
+SOD           58-64

@@ -1,0 +1,27 @@
+Dataset:  glass_leach.dat
+
+Source: A. Tuncuk, H. Ciftci, A. Ackil, A.Ognyanova, and F. Veglio (2010).
+"Experimental Design and Process Analysis for Acidic Leaching of Metal-Rich 
+Glass Wastes," Waste Management & Research, Vol.28, pp.445-454
+
+
+Description: 2^4 factorials conducted on clear and green glass bottles
+for percent reduction (negative values imply increase) of iron, aluminum,
+and titanium. There were 3 observations at "design center"
+
+Factors: Sample Ratio (%)  Low=10,  High=30
+         Sulfuric acid concentration (M)    Low=0.5,, High=1.0
+         Temperature (Celsius)    Low=60, High=120
+         Time (minutes)      Low=60, High=120
+
+Variables/Columns
+Sample Ratio   5-8
+Acid Concentration  10-16
+Temperature    18-24
+Time   26-32
+Colorless glass iron removal %   34-40
+Colorless glass aluminum removal %   42-48
+Colorless glass titanium removal %   50-56
+Green glass iron removal %   58-64 
+Green glass aluminum removal %   66-72
+Green glass titanium removal %   74-80

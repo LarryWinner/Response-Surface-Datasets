@@ -1,0 +1,21 @@
+Dataset:  machining.dat
+
+Source: S.H. Yeo, M. Rahman, Y.S. Wong (1989). "Towards Enhancement
+of Machinability Data by Multiple Regression," Journal of Mechanical
+Working Technology, Vol. 19, pp. 85-99.
+
+Description: Experimental Results of a Turning operation, relating
+Tool Life (minutes) and Surface Roughness (mu_m) to 3 Factors:
+Speed (m/min), Feed Rate (mm/rev), Depth of Cut (mm)
+Due to model theory, all variables are transformed to logs
+in model fit.
+
+Variables/Columns
+Run #   7-8
+Speed    10-16
+Feed Rate   18-24
+Depth of Cut   26-32
+Tool Life   34-40
+Surface Roughness  42-48
+
+

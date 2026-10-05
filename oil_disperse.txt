@@ -1,0 +1,17 @@
+Dataset:  oil_disperse.dat
+
+Source: M.A. Zahed, H.A. Aziz, M.H. Isa, L. Mohajeri (2012). "Response
+Surface Analysis to Improve Dispersed Crude Oil Biodegradation,"
+Clean - Soil, Air, Water, Vol. 40, #3, pp. 262-267
+
+Description: Response surface analysis of percent crude oil removed by
+3 factors: Nitrogen (mg/L), Phosphorous (mg/L), and Time (Days)
+
+Variables/Columns
+Nitrogen        4-8
+Phosphorous     12-16
+Days            18-24
+Coded Nitrogen   28-32
+Coded Phosphorous   36-40
+Coded Days         44-48
+% Crude Oil Removed   50-56

@@ -1,0 +1,27 @@
+Dataset: lipstick_color.csv
+
+Source: F.M. Zibetti, A.C.A. Cardoso, G.C. Desmarais, et al (2016). 
+"Application of a Central Composite Design to Evaluate the Influence of
+Colouring Agants in Lipstick Formulation," International Journal of
+Cosmetic Science, Vol. 38, pp. 481-486.
+
+Description: 3-Factor Central Composite Design for Response Surface
+with 3 Responses (Color parameters: L*=lightness (0=black to 100=White),
+a*=chromatic (red=+a*, to green=-a*), b*=chromatic (yellow=+b*,blue=-b*)
+Factors: Liposoluble Dye, Titanium Dioxide, Pigment. Data are means (SDs0
+of 3 replicates.
+
+Variable Names
+runNum
+dyeC    /* Coded Dye  */
+dye
+titDioxC
+titDiox
+pigmentC
+pigment
+LMn     /* Mean L* */
+LSD     /* SD L*   */
+aMn
+aSD
+bMn
+bSD
