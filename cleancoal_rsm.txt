@@ -1,0 +1,24 @@
+Dataset: cleancoal_rsm.dat
+
+Source: N. Aslan (2007). "Application of Response Surface Methodology
+and Central Composite Rotatble Design for Modeling the Influence of
+Some Operating Variables of a Multi-Gravity Separator for Coal Cleaning,"
+Fuel, Vol. 86, pp.  769-776.
+
+Description: 4 Factors: Drum Speed (175 to 275 by 25 rpm), Tilt Angle
+(1 to 9 by 2 degrees), Wash water (1 to 9 by 2 litres/min), feed solids
+(10 to 50 by 10%) on 2 responses Ash Content (%) and Combustible Recovery (%)
+in 30 run CCD.
+
+Variables/Columns
+Run Number   7-8
+Coded Drum Speed   15-16
+Coded angle   23-24
+Coded wash water   31-32 
+coded feed solids   39-40
+drum speed    45-48
+angle     56
+wash water   64
+feed solids   71-72
+ash content   75-80
+combustible recovery    83-88

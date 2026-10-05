@@ -1,0 +1,19 @@
+Dataset: canola_biodiesel.dat
+
+Source: S. Lee, D. Posarac, N. Ellis (2012). "An Experimental Investigation
+of Biodiesel Synthesis from Waste Canola Oil Using Supercritical Methanol,"
+Fuel, Vol. 91, pp. 229-237.
+
+Description: Experiment relating 3 factors to yield of methyl ester
+from waste canola oil: Time(15,30,45min), Temperature(240,255,270C),
+and Methanol/Oil weight ratio (1,1.5,2)
+
+Variables/Columns
+Run#   7-8
+Coded Time    15-16
+Coded Temp    23-24
+Coded methanol/oil   31-32
+Time        37-40
+Temp        45-48
+methanol/oil    53-56
+yield (%)    58-64

@@ -1,0 +1,23 @@
+Dataset: avocado.csv
+
+Source: S. Kowarit, K. Sathapornprasath, S.N. Jansri (2024).
+"Application of Hot Air Derived RSM conditions and Shading for
+Solar Drying of Avocado Pulp and its Properties,"
+Solar Energy, Vol. 278.  https://doi.org/10.1016/j.solener.2024.112768
+
+Description:
+Response Surface model run as Central Composite Design with 4 factors:
+Hot air temperature (C):  -1=40, 0=55, +1=70
+Drying Time (hours):      -1=13, 0=16.5, 1=20
+Raw Material Thickness (cm):  -1=0.5, 0=0.75, +1=1.0
+Wind Speed (meters/sec):      -1=0.12, 0=0.19, +1=0.26
+Contains axial points at +/-2 for each factor
+Response: Moisture Content (% db)
+
+Variable Names:
+run
+hotAirTemp
+dryTime
+rawMatThck
+windSpeed
+moisture

@@ -1,0 +1,19 @@
+Dataset:  alcohol_rsm.dat
+
+Source: Y. Zhang and J. Zhang (2008). "Optimization of Headspace Solid-Phase
+Microextraction for Analysis of Ethyl Carbamate in Alcoholic Beverages
+Using a Face-Centered Cube Central Composite Design," Analytica Chimica Acta,
+Vol. 627, pp. 212-218.
+
+Description: Response Surface design relating 3 Factors: Temperature (50,65,80C),
+pH(3,7,11), and percent NaCl (0, 10, 20) on Ethyl Carbimate peak area (1000s).
+
+Variables/Columns
+Run Number 7-8
+Coded Temperature   15-16
+Coded pH     23-24
+Coded NaCl   31-32
+Temperature   39-40
+ph           47-48
+NaCl         55-56
+Ethyl Carbimate peak area   58-64

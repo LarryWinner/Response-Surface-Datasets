@@ -1,0 +1,27 @@
+Dataset: cotton_bleach.dat
+
+Source: P.K. Lavric, F. Kovac, P.F. Tavcer, P. Hauser, D. Hinks (2007).
+"Enhanced PAA Bleaching of Cotton by Incorporating a Cationic Bleach Activator,"
+Coloration Technology, Vol. 123, #4, pp230-236
+
+Description: 4-Factor Design to determine effects on whiteness of cotton.
+Factors: Temperature (40-80C)
+Bleach Activator - TBBC  (0-3 %owf)
+pH    (6.5-8.5)
+Paracetic Acid - PAA  (ml/l)
+Response: Whiteness Index
+
+Note: Polynomial Regression fit on coded levels, not raw levels
+
+
+Variables/Columns
+Run #    7-8
+Temperature   15-16
+TBBC    20-24
+pH      30-32
+PAA     39-40
+Coded Temp   47-48
+Coded TBBC   55-56
+Coded pH    63-64
+coded PAA   71-72
+Whiteness Index   77-80 

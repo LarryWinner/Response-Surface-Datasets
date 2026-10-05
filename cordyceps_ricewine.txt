@@ -1,0 +1,21 @@
+Dataset:   cordyceps_ricewine.csv
+
+Source: R. Yang, D. Gu, Z. Gu (2016). "Cordyceps Rice Wine: 
+A Novel Brewing Process," Journal of Food Process Engineering,
+Vol. 39, pp. 581-590.
+
+Description: Box-Behnken response surface design with 3 factors and 2
+responses.
+Factors: Liquid-to-solid ratio (mL/g), koji addition (%),temperature (C)
+Responses: Cordycepin (mg/L),  Total Acid (g/L(
+
+Variable Names
+Run_ID
+liqSol.C
+koji.C
+tempC.C
+liqSol
+koji
+tempC
+cordycepin
+totAcid 

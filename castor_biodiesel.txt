@@ -1,0 +1,21 @@
+Dataset: castor_biodiesel.dat
+
+Source: S. Pradhan, C.S. Madankar, P. Mohanty, S.N. Naik (2012). 
+"Optimization of Reactive Extraction of Castor Seed to Produce Biodiesel
+Using Response Surface Methodology," Fuel, Vol. 97, pp. 848-855
+
+Descrption: Results of Experiment relating FAME Yield to 4 factors:
+Catalyst Concentration (%), Methanol/Oil ratio, mixing intensity (rpm),
+and temperature (C).
+
+Variables/Columns
+Run #   7-8
+Catalyst concentration  12-16
+methano to oil molar ratio  18-24
+mixing intensity     28-32
+Temperature        39-40
+FAME Yield (%)    43-48
+Coded catalyst    54-56
+Coded M/O         63-64
+Coded mixing      71-72
+coded Temp        79-80

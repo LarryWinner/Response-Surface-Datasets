@@ -1,0 +1,15 @@
+Dataset:  crab_compost_shred.dat
+
+Source: T.P. Cathcart, F.W. Wheaton, and R.B. Brinsfield (1986). "Optimizing
+Variables Affecting Composting of Blue Crab Scrap," Agricultural Wastes,
+Vol. 15, pp. 269-287.
+
+Description: Regression of Y (CO2 Mass generated/Initial compost dry mass)
+versus Carbon/Nitrogen Ratio, Temp (C), and moisture content (% wet weight)
+for shredded crab scrap compost tests.
+
+Variables/Columns
+C/N Ratio   3-8
+Temperature   10-16
+Moisture Content   18-24
+Y=compost rate     26-32

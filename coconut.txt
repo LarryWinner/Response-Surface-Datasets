@@ -1,0 +1,24 @@
+Dataset:  coconut.dat
+
+Source: N.K. Rastogi, G. Rajesh, and T.R. Shamala (1998). "Optomization
+of Enzymatic Degradation of Coconut Residue," Journal of the Science
+of Food and Agriculture, Vol. 76, pp. 129-134.
+
+Description: Central Composite Rotatable Design of 5 factors
+on enzymatic degradation of coconut residue in 32 experimental runs.
+Factors/Coding:
+pH  4.0 to 9.0 by 1.25,   pH* = (pH-6.5)/1.25
+Enzyme Conc (EC)  0 to 5 by 1.25    EC* = (EC-2.5)/1.25
+Temperature (T) (Celsius)   25 to 65 by 10    T* = (T-45)/10
+Water Ratio (WR)  0 to 2 by 0.5    WR* = (WR-1)/0.5
+Time (t) (hours)  2 to 10 by 2     t* = (t-6)/2
+
+
+Variables/Columns:
+pH*  7-8
+EC*  15-16
+T*   23-24
+WR*  31-32
+t*   39-40
+% Degradation   43-48
+

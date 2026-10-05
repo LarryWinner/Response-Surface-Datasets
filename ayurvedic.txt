@@ -1,0 +1,20 @@
+Dataset:  ayurvedic.csv
+
+Source: S.F. Sayyad,B.P. Panda, S.R. Chauhari (2016). "Optimization of Process Parameters
+of Ayurvedic Fermented Medicine Ajunarishta by Response Surface Methodology,"
+Journal of Pharmaceutical Innovation, Vol. 11, pp. 102-108
+
+Description:
+Results of a Response Surface Experiment based on a Box_Behnken design.
+n=17 runs with 1 response variable and 3 factors, run as a 2nd-order model.
+Response: Y = Alcohol %
+Predictors: X1 = Temperature (C) with levels 28, 34, 40
+            X2 = pH with levels 3, 5, 7
+            X3 = Inoculum volume (ml) with levels 0.5, 2.5, 5
+
+Variable Names
+runID
+tempC
+pH
+inocVol
+alc_Y
